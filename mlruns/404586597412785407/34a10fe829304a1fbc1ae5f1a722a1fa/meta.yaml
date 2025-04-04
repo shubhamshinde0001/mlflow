@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/404586597412785407/34a10fe829304a1fbc1ae5f1a722a1fa/artifacts
+end_time: 1743776520939
+entry_point_name: ''
+experiment_id: '404586597412785407'
+lifecycle_stage: active
+run_id: 34a10fe829304a1fbc1ae5f1a722a1fa
+run_name: auspicious-ram-0
+run_uuid: 34a10fe829304a1fbc1ae5f1a722a1fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743776520289
+status: 3
+tags: []
+user_id: Admin

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6b7b7696fc284b36bb7a34904dfc4307/artifacts
+end_time: 1743776110428
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b7b7696fc284b36bb7a34904dfc4307
+run_name: fearless-goat-813
+run_uuid: 6b7b7696fc284b36bb7a34904dfc4307
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743776109717
+status: 3
+tags: []
+user_id: Admin
